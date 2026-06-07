@@ -1,0 +1,19 @@
+# .gitignore
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+
+# Database files (if you use SQLite)
+*.sqlite3
+*.db
+
+# Environment variables and secrets
+.env
+config.json
+
+# IDE settings
+.vscode/
+.idea/
